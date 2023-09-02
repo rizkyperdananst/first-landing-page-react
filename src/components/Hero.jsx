@@ -7,7 +7,7 @@ const Hero = () => {
         <Container>
             <Row>
                 <Col>
-                <h1 className='text-white text-center fs-1'>Mari Bersantai Sejenak</h1>
+                <h1 className='text-white text-center fs-1'>Mari Bersantai Sejenak Di Rumah Kami</h1>
                 <p className='text-white text-center text-white-50'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, perferendis.</p>
                 </Col>
             </Row>
