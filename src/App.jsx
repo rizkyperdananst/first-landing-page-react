@@ -2,7 +2,7 @@ import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Gallery from './components/Gallery';
 import Services from './components/Services';
-import FAQ from './components/FAQ';
+import FAQ from './components/Faq';
 import Footer from './components/Footer';
 
 function App() {
